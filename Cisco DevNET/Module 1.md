@@ -1,12 +1,3 @@
----
-title: Module 1
-updated: 2024-02-14 06:21:36Z
-created: 2024-02-14 06:11:30Z
-latitude: -7.57408670
-longitude: 112.28609000
-altitude: 0.0000
----
-
 # Linux 
 ## Linux for DevNet
 
@@ -29,7 +20,10 @@ drwxr-xr-x 2 devasc devasc 4096 Apr 15 19:09 Downloads
 drwxr-xr-x 2 devasc devasc 4096 Apr 15 19:09 Documents
 drwxr-xr-x 2 devasc devasc 4096 Mar 30 21:25 Desktop
 devasc@labvm:~$ ``
-
 Which Linux command is used to display the contents of the current directory as shown? **(ls -lr)**
 - A system administrator of a Linux server is searching the passwd file for the username taylor that appears at the beginning of the line. Which grep command should the administrator use? **(grep '.taylor' /etc/passwd)**
 -  A user issues the apt-get upgrade command to update system files in a Ubuntu Linux system and receives an error message of "permission denied." What should the user do to complete the task? **(Issue the sudo apt-get upgrade command)**
+
+
+
+# Python
